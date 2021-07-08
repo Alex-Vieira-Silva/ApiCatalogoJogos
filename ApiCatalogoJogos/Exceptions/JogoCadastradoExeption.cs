@@ -9,7 +9,7 @@ namespace ApiCatalogoJogos.Exceptions
     {
         public JogoCadastradoExeption() 
         {
-            : base("Este jogo já esta cadastrado.")
+            : base("Este jogo já esta cadastrado.");
         }
     }
 }
